@@ -1,0 +1,107 @@
+[33mcommit 4cdc7d158cc259b27185655f6291202f880af056[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: zaenal <zaenalabidin17178@gmail.com>
+Date:   Sat Feb 1 14:10:54 2020 +0700
+
+    first commit
+
+[33mcommit 33bdd7e720b10392171dbbb5dff1e80ba6f1c232[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 31 16:28:03 2020 +0700
+
+    delet line kosong
+
+[33mcommit 28d2f46144075f507744900d2e2d329b13f373d7[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Wed Jan 29 12:52:55 2020 +0700
+
+    finish mereun
+
+[33mcommit 507210e76d8a23ee72c75094639866fecf32fb7b[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Mon Jan 27 16:52:16 2020 +0700
+
+    add authorization
+
+[33mcommit 927a105b4d0f7fb759b4ff9d3d98aa42e0f027ed[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Mon Jan 27 16:45:03 2020 +0700
+
+    fix error controller,model,routes
+
+[33mcommit 3c87690c0c8d6a6255a06e166574443d574561b3[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 20:02:58 2020 +0700
+
+    routes booking,pembayaran
+
+[33mcommit 010c248851a2b5395c97a1afd5dca54654cdd224[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 17:55:41 2020 +0700
+
+    add controller booking,pembayaran
+
+[33mcommit 264b86eaf7a40dfe31f89c7f6d902cf742ca3c57[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 17:08:42 2020 +0700
+
+    edit relationship model
+
+[33mcommit a1385f6f553fc5a02bcc540c0e831e84ae3d216d[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 13:45:54 2020 +0700
+
+    fix tarif
+
+[33mcommit 1a199b8e460ba495571c66e576265f3afb49b74a[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 09:10:06 2020 +0700
+
+    tarif routes and controller done
+
+[33mcommit b4409bbfd0be347f953059d59d9a783d23027c0f[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Sat Jan 25 09:08:32 2020 +0700
+
+    message delete
+
+[33mcommit 8b9700a4b9fa525a4bf0598d86f8e24dfe07116f[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 22:52:38 2020 +0700
+
+    add TarifController
+
+[33mcommit c5f42d2822d0a13f279b6d50e63b1b231261a5bd[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 22:50:41 2020 +0700
+
+    fix Controller meja
+
+[33mcommit 6229e1695b286686a999e12c092958df1f52fb9e[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 22:49:16 2020 +0700
+
+    update meja routes
+
+[33mcommit 7b4fb82a05a8df9b22d0934e0e5c9970a8cc99e9[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 18:32:32 2020 +0700
+
+    update user controller
+
+[33mcommit 26e9485edebca40ad9714495e26792d64bd4b086[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 16:04:57 2020 +0700
+
+    perubahan
+
+[33mcommit 42d791de3bccd3c468e396c7f6e3e301dd44f33b[m
+Author: fajar.muchamad12@gmail.com <fajar.muchamad12@gmail.com>
+Date:   Fri Jan 24 14:23:21 2020 +0700
+
+    master
+
+[33mcommit 71462bbd7e46a3ed4e45233ee3cb6c924405c2e2[m
+Author: jarzhyakuya <44530578+jarzhyakuya@users.noreply.github.com>
+Date:   Fri Jan 24 14:19:33 2020 +0700
+
+    Initial commit
